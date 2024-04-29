@@ -1,4 +1,9 @@
 # NIC-case-study
+
+
+# about project 
+The field of transaction fraud detection has garnered significant attention from researchers and practitioners alike, driven by the imperative to safeguard financial systems against malicious activities. A plethora of studies have explored various approaches to fraud detection, ranging from traditional rule-based systems to cutting-edge machine learning techniques. 
+
 # Credit Card Fraud Detection
 This Jupyter Notebook contains a comprehensive analysis of credit card transactions data to detect fraudulent activities using Nature Inspired Computing (NIC) techniques. The notebook covers data preprocessing, feature selection, and classification using various machine learning algorithms.
 
